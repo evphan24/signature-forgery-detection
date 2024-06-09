@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/signature-forgery-detection/static/css/main.a10555cb.css",
-    "main.js": "/signature-forgery-detection/static/js/main.ded126d7.js",
+    "main.js": "/signature-forgery-detection/static/js/main.e1ebeaf1.js",
     "static/js/787.9e9f4ffd.chunk.js": "/signature-forgery-detection/static/js/787.9e9f4ffd.chunk.js",
     "index.html": "/signature-forgery-detection/index.html",
     "main.a10555cb.css.map": "/signature-forgery-detection/static/css/main.a10555cb.css.map",
-    "main.ded126d7.js.map": "/signature-forgery-detection/static/js/main.ded126d7.js.map",
+    "main.e1ebeaf1.js.map": "/signature-forgery-detection/static/js/main.e1ebeaf1.js.map",
     "787.9e9f4ffd.chunk.js.map": "/signature-forgery-detection/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a10555cb.css",
-    "static/js/main.ded126d7.js"
+    "static/js/main.e1ebeaf1.js"
   ]
 }
